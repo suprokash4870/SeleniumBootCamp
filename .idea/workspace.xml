@@ -1,0 +1,767 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="77934597-6a07-4de5-b687-fb2482b675b1" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/Generic/target/" />
+    <ignored path="$PROJECT_DIR$/Amazon/target/" />
+    <ignored path="$PROJECT_DIR$/Facebook/target/" />
+    <ignored path="$PROJECT_DIR$/CNN/target/" />
+    <ignored path="$PROJECT_DIR$/Cigna/target/" />
+    <ignored path="$PROJECT_DIR$/Ctibank/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Cigna/src/main/java/Regression/CignaHomePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="550">
+              <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#322#323#0" expanded="true" />
+                <element signature="e#342#343#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Cigna/src/test/java/RegressionSuite/CignaTestHomePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="483">
+              <caret line="20" column="40" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#530#531#0" expanded="true" />
+                <element signature="e#553#554#0" expanded="true" />
+                <element signature="e#531#532#0" expanded="true" />
+                <element signature="e#554#555#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CNN/src/test/java/RegressionSuite/CnnTestHomePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="17" column="5" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="17" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Cigna/src/test/resources/CignaRunner.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/SeleniumAPI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="444">
+              <caret line="150" column="20" selection-start-line="150" selection-start-column="20" selection-end-line="150" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CNN/src/main/java/Regression/CnnHomePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="298">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/base/CommonAPI.java" />
+        <option value="$PROJECT_DIR$/src/main/java/base/SeleniumAPI.java" />
+        <option value="$PROJECT_DIR$/Generic/pom.xml" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentManager.java" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentTestManager.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/main/resources/AmazonRunner.xml" />
+        <option value="$PROJECT_DIR$/Amazon/pom.xml" />
+        <option value="$PROJECT_DIR$/Amazon/src/test/java/RegressionSuite.java" />
+        <option value="$PROJECT_DIR$/Cigna/src/test/resources/CignaRunner.xml" />
+        <option value="$PROJECT_DIR$/Amazon/src/test/resources/AmazonRunner.xml" />
+        <option value="$PROJECT_DIR$/Cigna/pom.xml" />
+        <option value="$PROJECT_DIR$/CNN/pom.xml" />
+        <option value="$PROJECT_DIR$/CNN/src/test/resources/CnnRunner.xml" />
+        <option value="$PROJECT_DIR$/Ctibank/src/test/resources/CitibankRunner.xml" />
+        <option value="$PROJECT_DIR$/Facebook/src/test/resources/FacebookRunner.xml" />
+        <option value="$PROJECT_DIR$/Facebook/pom.xml" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/base/SeleniumAPI.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/main/java/Regression/AmazonHomePage.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/test/java/RegressionSuite/AmazonTestHomePage.java" />
+        <option value="$PROJECT_DIR$/Facebook/src/main/java/Regression/FacebookHomePage.java" />
+        <option value="$PROJECT_DIR$/Facebook/src/test/java/RegressionSuite/FacebookTestHomePage.java" />
+        <option value="$PROJECT_DIR$/CNN/src/test/java/RegressionSuite/CnnTestHomePage.java" />
+        <option value="$PROJECT_DIR$/CNN/src/main/java/Regression/CnnHomePage.java" />
+        <option value="$PROJECT_DIR$/Cigna/src/main/java/Regression/CignaHomePage.java" />
+        <option value="$PROJECT_DIR$/Cigna/src/test/java/RegressionSuite/CignaTestHomePage.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1910" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SeleniumBootCamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumBootCamp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumBootCamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumBootCamp" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumBootCamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumBootCamp" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumBootCamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumBootCamp" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumBootCamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumBootCamp" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumBootCamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumBootCamp" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Regression" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumBootCamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumBootCamp" type="462c0819:PsiDirectoryNode" />
+              <item name="Cigna" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumBootCamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumBootCamp" type="462c0819:PsiDirectoryNode" />
+              <item name="Cigna" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumBootCamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumBootCamp" type="462c0819:PsiDirectoryNode" />
+              <item name="Cigna" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumBootCamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumBootCamp" type="462c0819:PsiDirectoryNode" />
+              <item name="Cigna" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumBootCamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumBootCamp" type="462c0819:PsiDirectoryNode" />
+              <item name="Cigna" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Regression" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumBootCamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumBootCamp" type="462c0819:PsiDirectoryNode" />
+              <item name="Cigna" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumBootCamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumBootCamp" type="462c0819:PsiDirectoryNode" />
+              <item name="Cigna" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumBootCamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumBootCamp" type="462c0819:PsiDirectoryNode" />
+              <item name="Cigna" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="RegressionSuite" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumBootCamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumBootCamp" type="462c0819:PsiDirectoryNode" />
+              <item name="Cigna" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumBootCamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumBootCamp" type="462c0819:PsiDirectoryNode" />
+              <item name="CNN" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumBootCamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumBootCamp" type="462c0819:PsiDirectoryNode" />
+              <item name="CNN" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumBootCamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumBootCamp" type="462c0819:PsiDirectoryNode" />
+              <item name="CNN" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumBootCamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumBootCamp" type="462c0819:PsiDirectoryNode" />
+              <item name="CNN" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumBootCamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumBootCamp" type="462c0819:PsiDirectoryNode" />
+              <item name="CNN" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Regression" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumBootCamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumBootCamp" type="462c0819:PsiDirectoryNode" />
+              <item name="CNN" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumBootCamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumBootCamp" type="462c0819:PsiDirectoryNode" />
+              <item name="CNN" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumBootCamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumBootCamp" type="462c0819:PsiDirectoryNode" />
+              <item name="CNN" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="RegressionSuite" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Facebook/src/test/resources" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\SSANYALASHOK\Downloads\SeleniumBootCamp\Facebook\src\test\resources" />
+      <recent name="C:\Users\SSANYALASHOK\Downloads\SeleniumBootCamp\Ctibank\src\test\resources" />
+      <recent name="C:\Users\SSANYALASHOK\Downloads\SeleniumBootCamp\CNN\src\test\resources" />
+      <recent name="C:\Users\SSANYALASHOK\Downloads\SeleniumBootCamp\Cigna\src\test\resources" />
+      <recent name="C:\Users\SSANYALASHOK\Downloads\SeleniumBootCamp\Generic\src\main\resources\Driver" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\SSANYALASHOK\Downloads\SeleniumBootCamp\Facebook\src\test" />
+      <recent name="C:\Users\SSANYALASHOK\Downloads\SeleniumBootCamp\Ctibank\src\test" />
+      <recent name="C:\Users\SSANYALASHOK\Downloads\SeleniumBootCamp\CNN\src\test" />
+      <recent name="C:\Users\SSANYALASHOK\Downloads\SeleniumBootCamp\Cigna\src\test" />
+      <recent name="C:\Users\SSANYALASHOK\Downloads\SeleniumBootCamp\Amazon\src\test" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/SSANYALASHOK/Downloads/SeleniumBootCamp/CNN/src/test/resources/CnnRunner.xml">
+    <configuration name="C:/Users/SSANYALASHOK/Downloads/SeleniumBootCamp/Amazon/src/test/resources/AmazonRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Amazon" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Amazon/src/test/resources/AmazonRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/SSANYALASHOK/Downloads/SeleniumBootCamp/CNN/src/test/resources/CnnRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CNN" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/CNN/src/test/resources/CnnRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/SSANYALASHOK/Downloads/SeleniumBootCamp/Facebook/src/test/resources/FacebookRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Facebook" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Facebook/src/test/resources/FacebookRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/SSANYALASHOK/Downloads/SeleniumBootCamp/CNN/src/test/resources/CnnRunner.xml" />
+        <item itemvalue="TestNG.C:/Users/SSANYALASHOK/Downloads/SeleniumBootCamp/Facebook/src/test/resources/FacebookRunner.xml" />
+        <item itemvalue="TestNG.C:/Users/SSANYALASHOK/Downloads/SeleniumBootCamp/Amazon/src/test/resources/AmazonRunner.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77934597-6a07-4de5-b687-fb2482b675b1" name="Default Changelist" comment="" />
+      <created>1560815535760</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560815535760</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="C__Users_SSANYALASHOK_Downloads_SeleniumBootCamp_Facebook_src_test_resources_FacebookRunner_xml - 2019.06.18 at 11h 53m 45s.xml">
+      <configuration name="C:/Users/SSANYALASHOK/Downloads/SeleniumBootCamp/Facebook/src/test/resources/FacebookRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_SSANYALASHOK_Downloads_SeleniumBootCamp_CNN_src_test_resources_CnnRunner_xml - 2019.06.18 at 13h 36m 39s.xml">
+      <configuration name="C:/Users/SSANYALASHOK/Downloads/SeleniumBootCamp/CNN/src/test/resources/CnnRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_SSANYALASHOK_Downloads_SeleniumBootCamp_CNN_src_test_resources_CnnRunner_xml - 2019.06.18 at 13h 38m 16s.xml">
+      <configuration name="C:/Users/SSANYALASHOK/Downloads/SeleniumBootCamp/CNN/src/test/resources/CnnRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_SSANYALASHOK_Downloads_SeleniumBootCamp_CNN_src_test_resources_CnnRunner_xml - 2019.06.18 at 13h 43m 25s.xml">
+      <configuration name="C:/Users/SSANYALASHOK/Downloads/SeleniumBootCamp/CNN/src/test/resources/CnnRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_SSANYALASHOK_Downloads_SeleniumBootCamp_Facebook_src_test_resources_FacebookRunner_xml - 2019.06.18 at 13h 47m 29s.xml">
+      <configuration name="C:/Users/SSANYALASHOK/Downloads/SeleniumBootCamp/Facebook/src/test/resources/FacebookRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_SSANYALASHOK_Downloads_SeleniumBootCamp_CNN_src_test_resources_CnnRunner_xml - 2019.06.18 at 14h 25m 11s.xml">
+      <configuration name="C:/Users/SSANYALASHOK/Downloads/SeleniumBootCamp/CNN/src/test/resources/CnnRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_SSANYALASHOK_Downloads_SeleniumBootCamp_CNN_src_test_resources_CnnRunner_xml - 2019.06.18 at 14h 38m 38s.xml">
+      <configuration name="C:/Users/SSANYALASHOK/Downloads/SeleniumBootCamp/CNN/src/test/resources/CnnRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_SSANYALASHOK_Downloads_SeleniumBootCamp_CNN_src_test_resources_CnnRunner_xml - 2019.06.18 at 14h 44m 18s.xml">
+      <configuration name="C:/Users/SSANYALASHOK/Downloads/SeleniumBootCamp/CNN/src/test/resources/CnnRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_SSANYALASHOK_Downloads_SeleniumBootCamp_CNN_src_test_resources_CnnRunner_xml - 2019.06.18 at 14h 47m 28s.xml">
+      <configuration name="C:/Users/SSANYALASHOK/Downloads/SeleniumBootCamp/CNN/src/test/resources/CnnRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_SSANYALASHOK_Downloads_SeleniumBootCamp_CNN_src_test_resources_CnnRunner_xml - 2019.06.18 at 15h 09m 12s.xml">
+      <configuration name="C:/Users/SSANYALASHOK/Downloads/SeleniumBootCamp/CNN/src/test/resources/CnnRunner.xml" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20872483" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.06657224" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.04249292" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20872483" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.06657224" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.04249292" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/base/SeleniumAPI.java" />
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#942#943#0" expanded="true" />
+            <element signature="e#989#990#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentTestManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#644#645#0" expanded="true" />
+            <element signature="e#690#691#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/resources/Driver/chromedriver.exe">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/resources/Driver/geckodriver.exe">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/RegressionSuite.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2650">
+          <caret line="110" column="41" selection-start-line="110" selection-start-column="41" selection-end-line="110" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ctibank/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cigna/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="37" column="59" selection-start-line="37" selection-start-column="59" selection-end-line="37" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNN/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="47" column="10" selection-start-line="47" selection-start-column="10" selection-end-line="47" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="31" column="63" selection-start-line="31" selection-start-column="63" selection-end-line="31" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="30" column="59" lean-forward="true" selection-start-line="30" selection-start-column="59" selection-end-line="30" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ctibank/src/test/resources/CitibankRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ctibank/src/test/java/RegressionSuite/CitibankTestHomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ctibank/src/main/java/Regression/CitibankHomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/test/resources/AmazonRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="10" column="52" lean-forward="true" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/RegressionSuite/AmazonTestHomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="24" selection-start-line="16" selection-start-column="8" selection-end-line="17" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1094#1095#0" expanded="true" />
+            <element signature="e#1147#1148#0" expanded="true" />
+            <element signature="e#1215#1216#0" expanded="true" />
+            <element signature="e#1271#1272#0" expanded="true" />
+            <element signature="e#1318#1319#0" expanded="true" />
+            <element signature="e#1364#1365#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/src/test/java/RegressionSuite/FacebookTestHomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="21" column="35" lean-forward="true" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#551#552#0" expanded="true" />
+            <element signature="e#586#587#0" expanded="true" />
+            <element signature="e#638#639#0" expanded="true" />
+            <element signature="e#686#687#0" expanded="true" />
+            <element signature="e#734#735#0" expanded="true" />
+            <element signature="e#774#775#0" expanded="true" />
+            <element signature="e#820#821#0" expanded="true" />
+            <element signature="e#861#862#0" expanded="true" />
+            <element signature="e#908#909#0" expanded="true" />
+            <element signature="e#952#953#0" expanded="true" />
+            <element signature="e#1001#1002#0" expanded="true" />
+            <element signature="e#1047#1048#0" expanded="true" />
+            <element signature="e#1094#1095#0" expanded="true" />
+            <element signature="e#1129#1130#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/src/test/resources/FacebookRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="61" lean-forward="true" selection-start-line="6" selection-start-column="61" selection-end-line="6" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/Regression/AmazonHomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1107">
+          <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/SeleniumAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="150" column="20" selection-start-line="150" selection-start-column="20" selection-end-line="150" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/src/main/java/Regression/FacebookHomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="76" column="3" selection-start-line="76" selection-start-column="3" selection-end-line="76" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNN/src/test/resources/CnnRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cigna/src/test/resources/CignaRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNN/src/main/java/Regression/CnnHomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNN/src/test/java/RegressionSuite/CnnTestHomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cigna/src/main/java/Regression/CignaHomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cigna/src/test/java/RegressionSuite/CignaTestHomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="20" column="40" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#530#531#0" expanded="true" />
+            <element signature="e#553#554#0" expanded="true" />
+            <element signature="e#531#532#0" expanded="true" />
+            <element signature="e#554#555#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
